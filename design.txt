@@ -1,0 +1,10 @@
+
+{
+    "input": "Add mem0 to mem2 and go to line 2"
+    "linenr": 12
+    "mem0": "",
+    "mem1": "",
+    "mem2": "",
+    "mem3": "",
+    "output": 
+}
